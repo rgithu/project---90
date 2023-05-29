@@ -1,11 +1,11 @@
 body
 {
-	background: lightblue;
+	background: red;
 }
 
 	.login_div1 , .login_div2
 	{
-		background: white;
+		background: yellow;
 		padding: 20px;
 		float: none;
 		border-radius: 15px;
